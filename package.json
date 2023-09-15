@@ -1,0 +1,19 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejer1.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fllano18/practicas-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fllano18/practicas-js/issues"
+  },
+  "homepage": "https://github.com/fllano18/practicas-js#readme"
+}
